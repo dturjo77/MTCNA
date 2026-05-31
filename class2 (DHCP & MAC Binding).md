@@ -1,4 +1,4 @@
-**DHCP
+**DHCP**
 
 ip -> DHCP Server -> DHCP Setup -> (select LAN interface) -> next click
 <img width="823" height="447" alt="image" src="https://github.com/user-attachments/assets/96756be2-ba53-4047-a878-620e164a04d3" />
@@ -18,7 +18,7 @@ ip -> DHCP Server -> DHCP Setup -> (select LAN interface) -> next click
 <img width="1012" height="487" alt="image" src="https://github.com/user-attachments/assets/bfd36b9d-321b-488c-ac73-eb33ff799b2b" />
 
 
-**MAC Binding
+**MAC Binding**
 
 ip -> DHCP Server -> dhcp1 click -> ( Address pool static only & Add ARP for Leases) -> Apply -> Ok
 <img width="815" height="801" alt="image" src="https://github.com/user-attachments/assets/b0bd1542-4101-436b-b492-7da295adb183" />
