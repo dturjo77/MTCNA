@@ -17,6 +17,7 @@ ip -> DHCP Server -> DHCP Setup -> (select LAN interface) -> next click
 
 <img width="1012" height="487" alt="image" src="https://github.com/user-attachments/assets/bfd36b9d-321b-488c-ac73-eb33ff799b2b" />
 
+---
 
 **MAC Binding**
 
